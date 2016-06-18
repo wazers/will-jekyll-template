@@ -5,12 +5,12 @@ baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "http://wazers.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: jlsJonas
+username: wazers
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+user_title: Waze Development Community
 email: anon@anon.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  wazers
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
